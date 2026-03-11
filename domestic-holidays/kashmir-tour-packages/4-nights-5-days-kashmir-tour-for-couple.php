@@ -5,8 +5,8 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kashmir Tour 4N & 5D for Couple - Vision Vacation</title>
-    <meta name="description" content="">
+    <title>4 Nights 5 Days Kashmir Couple Tour | Vision Vacation</title>
+    <meta name="description" content="Plan a romantic Kashmir trip with this 4 nights 5 days couple tour package by Vision Vacation. Visit Srinagar, Gulmarg, and scenic valleys.">
     <meta name="keywords" content="">
 </head>
 

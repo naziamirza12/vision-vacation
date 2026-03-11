@@ -5,8 +5,8 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Goa 3N & 4D with Dinner Cruise - Vision Vacation</title>
-    <meta name="description" content="">
+    <title>3 Nights 4 Days Goa Dinner Cruise Package | Vision Vacation</title>
+    <meta name="description" content="Enjoy a 3 nights 4 days Goa tour with dinner cruise by Vision Vacation. Relax on beaches, explore nightlife, water sports, and scenic coastal attractions.">
     <meta name="keywords" content="">
 </head>
 

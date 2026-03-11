@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Himachal Tour Packages- Vision Vacation</title>
-    <meta name="description" content="">
+    <title>Himachal Tour Packages – Shimla, Manali & Mountain Trips</title>
+    <meta name="description" content="Explore Himachal Pradesh with Vision Vacation. Discover Shimla, Manali & scenic mountain destinations with affordable tour packages and itineraries.">
     <meta name="keywords" content="">
 </head>
 

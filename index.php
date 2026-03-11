@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Travel Vision Vacation - </title>
-    <meta name="description" content="">
+    <title>Vision Vacation | Best Tour Packages, Holiday Deals & Itineraries </title>
+    <meta name="description" content="Discover affordable tour and holiday packages with Vision Vacation. Explore customized itineraries, top destinations, and unforgettable travel experiences.">
     <meta name="keywords" content="">
     <link href="assets/img/logos/favicon.png" rel="shortcut icon" type="image/png">
 </head>

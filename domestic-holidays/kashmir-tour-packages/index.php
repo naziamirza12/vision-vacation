@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kashmir Tour Packages - Vision Vacation</title>
-    <meta name="description" content="">
+    <title>Kashmir Tour Packages – Explore Paradise on Earth</title>
+    <meta name="description" content="Experience the beauty of Kashmir with Vision Vacation. Visit Srinagar, Gulmarg & Pahalgam with scenic landscapes & customized tour packages and enjoy.">
     <meta name="keywords" content="">
 </head>
 

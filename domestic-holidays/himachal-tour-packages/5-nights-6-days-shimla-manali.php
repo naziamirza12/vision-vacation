@@ -5,8 +5,8 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Shimla - Manali Package for 5N & 6D - Vision Vacation</title>
-    <meta name="description" content="">
+    <title>5 Nights 6 Days Shimla Manali Tour | Vision Vacation</title>
+    <meta name="description" content="Explore Himachal with this 5 nights 6 days Shimla Manali tour package by Vision Vacation. Enjoy mountains, scenic views, adventure activities, & hill stations.">
     <meta name="keywords" content="">
 </head>
 

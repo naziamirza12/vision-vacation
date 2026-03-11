@@ -5,8 +5,8 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>5 Nights / 6 Days Andaman Tour Package - Vision Vacation</title>
-    <meta name="description" content="">
+    <title>5 Nights 6 Days Andaman Tour Package | Vision Vacation</title>
+    <meta name="description" content="Explore Andaman with this 5 nights 6 days tour package by Vision Vacation. Discover Port Blair, Havelock Island, beaches, water activities & scenic island views.">
     <meta name="keywords" content="">
 </head>
 

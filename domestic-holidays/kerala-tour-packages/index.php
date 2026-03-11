@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kerala Tour Packages - Vision Vacation</title>
-    <meta name="description" content="">
+    <title>Kerala Tour Packages - Backwaters & Nature Trips</title>
+    <meta name="description" content="Discover Kerala with Vision Vacation. Explore backwaters, hill stations, beaches & cultural attractions with affordable packages and customized itineraries.">
     <meta name="keywords" content="">
 </head>
 

@@ -5,8 +5,8 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kerala Tour Package (04 Nights /05 Days) - Vision Vacation</title>
-    <meta name="description" content="">
+    <title>4 Nights 5 Days Kerala Tour Package | Vision Vacation</title>
+    <meta name="description" content="Discover Kerala with this 4 nights 5 days tour package from Vision Vacation. Visit backwaters, hill stations, tea gardens, and beautiful beaches.">
     <meta name="keywords" content="">
 </head>
 

@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Our Tour Packages - Vision Vacation</title>
-    <meta name="description" content="">
+    <title>Domestic Holiday Packages in India | Vision Vacation</title>
+    <meta name="description" content="Explore the best holiday packages across India with Vision Vacation. Discover top destinations, customized itineraries, and affordable travel deals.">
     <meta name="keywords" content="">
     <link href="assets/img/logos/favicon.png" rel="shortcut icon" type="image/png">
 </head>

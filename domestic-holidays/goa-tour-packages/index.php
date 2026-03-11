@@ -5,8 +5,8 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Goa Tour Packages - Vision Vacation</title>
-    <meta name="description" content="">
+    <title>Goa Tour Packages - Beaches & Holiday Deals | Vision Vacation</title>
+    <meta name="description" content="Plan your perfect Goa vacation with Vision Vacation. Explore beaches, nightlife, water sports & customized tour packages for a relaxing & memorable holiday.">
     <meta name="keywords" content="">
 </head>
 

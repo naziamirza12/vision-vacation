@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact - Vision Vacation</title>
-    <meta name="description" content="">
+    <title>Contact Vision Vacation | Travel Support & Inquiries</title>
+    <meta name="description" content="Contact Vision Vacation for tour packages, travel inquiries, and customized itineraries. Our team is ready to help you just call at +91 8739056222.">
     <meta name="keywords" content="">
 
     <link href="./assets/img/logos/favicon.png" rel="shortcut icon" type="image/png">
