@@ -41,7 +41,7 @@
                                 </a>
                             </li>
                             <li class="social-item">
-                                <a href="tel:+91 8739056222">
+                                <a href="https://wa.me/+918739056222">
                                     <i class="bi bi-whatsapp"></i>
                                 </a>
                             </li>
@@ -58,12 +58,12 @@
                 data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
                 <i class="bi bi-list"></i>
             </button>
-            <a class="logo-for" href="#">
+            <a class="logo-for" href="index.php">
                 <img src="<?= $base_url ?>assets/img/logos/logo.png" width="120px">
             </a>
             <div class="offcanvas offcanvas-navbar offcanvas-start border-end-0" tabindex="-1" id="offcanvasNavbar">
                 <div class="offcanvas-header border-bottom p-xl-0">
-                    <a href="#" class="d-inline-block">
+                    <a href="index.php" class="d-inline-block">
                         <img src="assets/img/logos/logo.png" alt="logo">
                     </a>
                     <button type="button" class="btn-close shadow-none" data-bs-dismiss="offcanvas"
@@ -125,7 +125,7 @@
             </div>
             <div class="dropdown user-menu ms-xl-auto">
                 <div class="only-desktop">
-                    <a href="https://wa.me/+918739056222" class="btn btn-primary mnw-180">
+                    <a href="tel:+91 8739056222" class="btn btn-primary mnw-180">
                         <span>Talk to an Expert</span>
                     </a>
                 </div>

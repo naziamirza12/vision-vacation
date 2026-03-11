@@ -7,7 +7,7 @@
     <title>Contact - Vision Vacation</title>
     <meta name="description" content="">
     <meta name="keywords" content="">
-    
+
     <link href="./assets/img/logos/favicon.png" rel="shortcut icon" type="image/png">
     <link href="assets/css/main2.css" rel="stylesheet">
     <link href="assets/css/main1.css" rel="stylesheet">
@@ -27,7 +27,7 @@
         <!-- Title -->
         <section class="hero aos-init aos-animate" data-aos="fade">
             <div class="hero-bg">
-                <img src="./assets/img/about/a6.jpg" srcset="./assets/img/about/a6@2x.jpg 2x" alt="">
+                <img src="./assets/img/about/contact-us.svg" srcset="./assets/img/about/contact-us.svg 2x" alt="">
             </div>
             <div class="bg-content container">
                 <div class="hero-page-title">
@@ -79,40 +79,78 @@
                     <div class="col-12 col-xl-6">
                         <!-- Contact Form -->
                         <div class="form-contact rounded shadow-sm">
-                            <form class="needs-validation" method="post" novalidate="">
+                            <form id="contactForm" class="needs-validation" novalidate>
+
                                 <div class="border-bottom pb-4 mb-4">
                                     <h2 class="text-white mb-0">Looking for any help?</h2>
                                 </div>
+
                                 <div class="alert d-none" role="alert" id="msg_alert"></div>
+
+                                <!-- Name -->
                                 <div class="form-floating mb-4">
                                     <input id="txtYourName" type="text" name="yourname" class="form-control shadow-sm"
-                                        placeholder="Your Name" required="">
+                                        placeholder="Your Name" required>
                                     <label for="txtYourName">Your Name *</label>
                                 </div>
+
+                                <!-- Email -->
                                 <div class="form-floating mb-4">
                                     <input id="txtEmail" type="email" name="email" class="form-control shadow-sm"
-                                        placeholder="Email" required="">
+                                        placeholder="Email" required>
                                     <label for="txtEmail">Your Email *</label>
                                 </div>
+
+                                <!-- Subject -->
                                 <div class="form-floating mb-4">
                                     <input id="txtSubject" type="text" name="subject" class="form-control shadow-sm"
-                                        placeholder="Subject" required="">
+                                        placeholder="Subject" required>
                                     <label for="txtSubject">Subject *</label>
                                 </div>
+
+                                <!-- Message -->
                                 <div class="form-floating mb-4">
                                     <textarea id="txtMessage" name="message" class="form-control shadow-sm"
-                                        placeholder="Message" style="height: 150px" required=""></textarea>
+                                        placeholder="Message" style="height:150px" required></textarea>
                                     <label for="txtMessage">Message *</label>
                                 </div>
+
+                                <!-- Submit Button -->
                                 <button type="submit" class="btn btn-light mnw-180">
                                     <i class="bi bi-envelope"></i>
-                                    <span> Send message</span>
+                                    <span>Send Message</span>
                                 </button>
-                                <div class="row">
-                                    <div class="col-12">
-                                    </div>
-                                </div>
+
                             </form>
+
+
+                            <script>
+
+                                document.getElementById("contactForm").addEventListener("submit", function (e) {
+
+                                    e.preventDefault();
+
+                                    var name = document.getElementById("txtYourName").value;
+                                    var email = document.getElementById("txtEmail").value;
+                                    var subject = document.getElementById("txtSubject").value;
+                                    var message = document.getElementById("txtMessage").value;
+
+                                    var whatsappMessage =
+                                        "*New Contact Inquiry*%0A%0A" +
+                                        "*Name:* " + name + "%0A" +
+                                        "*Email:* " + email + "%0A" +
+                                        "*Subject:* " + subject + "%0A" +
+                                        "*Message:* " + message;
+
+                                    var whatsappNumber = "918739056222";
+
+                                    var url = "https://wa.me/" + whatsappNumber + "?text=" + whatsappMessage;
+
+                                    window.open(url, "_blank");
+
+                                });
+
+                            </script>
                         </div>
                         <!-- /Contact Form -->
                     </div>
