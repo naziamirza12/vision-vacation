@@ -27,7 +27,7 @@
         <!-- Title -->
         <section class="hero aos-init aos-animate" data-aos="fade">
             <div class="hero-bg">
-                <img src="./assets/img/about/contact-us.svg" srcset="./assets/img/about/contact-us.svg 2x" alt="">
+                <img src="./assets/img/about/contact-us.webp" srcset="./assets/img/about/contact-us.webp 2x" alt="">
             </div>
             <div class="bg-content container">
                 <div class="hero-page-title">
