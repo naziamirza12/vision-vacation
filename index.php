@@ -7,6 +7,7 @@
     <title>Travel Vision Vacation - </title>
     <meta name="description" content="">
     <meta name="keywords" content="">
+    <link href="assets/img/logos/favicon.png" rel="shortcut icon" type="image/png">
 </head>
 
 <body>
@@ -165,27 +166,27 @@
 
                 <div class="destinations__scroller" id="destinationsScroller" aria-label="Popular destinations">
                     <!-- Card -->
-                    <a class="destination-card" href="andaman-tour-package.php" aria-label="Andaman">
+                    <a class="destination-card" href="domestic-holidays/andaman-tour-packages/" aria-label="Andaman">
                         <img class="destination-card__img" src="assets/img/hero/andaman.png" alt="Andaman" />
                         <span class="destination-card__pill">Andaman</span>
                     </a>
 
-                    <a class="destination-card" href="goa-tour-package.php" aria-label="Goa">
+                    <a class="destination-card" href="domestic-holidays/goa-tour-packages/" aria-label="Goa">
                         <img class="destination-card__img" src="assets/img/hero/goa.png" alt="Goa" />
                         <span class="destination-card__pill">Goa</span>
                     </a>
 
-                    <a class="destination-card" href="kerala-tour-package.php" aria-label="Kerala">
+                    <a class="destination-card" href="domestic-holidays/kerala-tour-packages/" aria-label="Kerala">
                         <img class="destination-card__img" src="assets/img/hero/kerala.png" alt="Kerala" />
                         <span class="destination-card__pill">Kerala</span>
                     </a>
 
-                    <a class="destination-card" href="kashmir-tour-package.php" aria-label="Kashmir">
+                    <a class="destination-card" href="domestic-holidays/kashmir-tour-packages/" aria-label="Kashmir">
                         <img class="destination-card__img" src="assets/img/hero/kashmir.png" alt="Kashmir" />
                         <span class="destination-card__pill">Kashmir</span>
                     </a>
 
-                    <a class="destination-card" href="himachal-tour-package.php" aria-label="Himachal">
+                    <a class="destination-card" href="domestic-holidays/himachal-tour-packages/" aria-label="Himachal">
                         <img class="destination-card__img" src="assets/img/hero/himachal.png" alt="Himachal" />
                         <span class="destination-card__pill">Himachal</span>
                     </a>
@@ -536,7 +537,7 @@
                                     your vacation feels effortless from start to finish.
                                 </p>
                                 <div class="pt-3">
-                                    <a href="about" class="btn btn-primary btn-uppercase mnw-180">
+                                    <a href="about.php" class="btn btn-primary btn-uppercase mnw-180">
                                         <span>Read more</span>
                                         <i class="bi bi-arrow-right"></i>
                                     </a>
@@ -561,13 +562,43 @@
         </section>
         <!-- /About -->
 
+        <!-- gallery -->
+        <div class="container-fluid ptb-100">
+            <div class="container">
+                <div class="text-center mb-5">
+                    <div class="block-title">
+                        <h2 class="h1 title">Our Beautiful Movements</h2>
+                    </div>
+                </div>
+                <section class="movement-section">
+                    <div class="movement-grid">
+                        <img class=" medium" src="assets/img/tours/grid-img/grid1.webp">
+                        <img class=" medium" src="assets/img/tours/grid-img/grid2.webp">
+                        <img class=" medium" src="assets/img/tours/grid-img/grid3.webp">
+                        <img class=" tall" src="assets/img/tours/grid-img/grid4.webp"> <!-- tall -->
+                        <img class=" medium" src="assets/img/tours/grid-img/grid5.webp">
+                        <img class=" medium" src="assets/img/tours/grid-img/grid6.webp">
+                        <img class="tall" src="assets/img/tours/grid-img/grid7.webp"> <!-- tall -->
+                        <img class=" medium" src="assets/img/tours/grid-img/grid8.webp">
+                        <img class=" tall" src="assets/img/tours/grid-img/grid9.webp">
+
+                        <img class=" medium" src="assets/img/tours/grid-img/grid10.webp"> <!-- tall -->
+                        <img src="assets/img/tours/grid-img/grid11.webp">
+
+                        <img src="assets/img/tours/grid-img/grid12.webp">
+
+                    </div>
+                </section>
+            </div>
+        </div>
+        <!-- end -->
+
         <!-- blog  -->
         <section class="p-top-90 p-bottom-90 bg-gray-gradient" data-aos="fade">
             <div class="container">
                 <!-- Title -->
-                <div class="text-center mb-3">
+                <div class="text-center mb-5">
                     <div class="block-title">
-                        <small class="sub-title">Blog section</small>
                         <h2 class="h1 title">Vision Vacation Travel Insight</h2>
                     </div>
                 </div>

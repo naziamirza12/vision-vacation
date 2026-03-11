@@ -426,7 +426,8 @@
                                             <label class="form-label">Full Name *</label>
                                             <div class="input-group">
                                                 <span class="input-group-text"><i class="bi bi-person"></i></span>
-                                                <input type="text" class="form-control" placeholder="Enter Your Name">
+                                                <input type="text" id="name" class="form-control"
+                                                    placeholder="Enter Your Name">
                                             </div>
                                         </div>
 
@@ -435,7 +436,9 @@
                                             <label class="form-label">Phone Number *</label>
                                             <div class="input-group">
                                                 <span class="input-group-text"><i class="bi bi-phone"></i></span>
-                                                <input type="tel" class="form-control" placeholder="Enter Phone Number">
+                                                <input type="tel" id="phone" class="form-control"
+                                                    placeholder="Enter Phone Number">
+
                                             </div>
                                         </div>
 
@@ -444,7 +447,7 @@
                                             <label class="form-label">Number of Travellers *</label>
                                             <div class="input-group">
                                                 <span class="input-group-text"><i class="bi bi-people"></i></span>
-                                                <select class="form-control">
+                                                <select class="form-control" id="travellers">
                                                     <option>Number of travellers</option>
                                                     <option>1 Traveller</option>
                                                     <option>2 Travellers</option>
@@ -462,7 +465,7 @@
                                             <label class="form-label">Tour Type *</label>
                                             <div class="input-group">
                                                 <span class="input-group-text"><i class="bi bi-map"></i></span>
-                                                <select class="form-control">
+                                                <select class="form-control" id="tourType">
                                                     <option>Select tour type</option>
                                                     <option>Family Tour</option>
                                                     <option>Honeymoon Tour</option>
@@ -488,7 +491,7 @@
                                     </div>
 
                                     <!-- Button -->
-                                    <button type="button" class="btn btn-theme w-100">
+                                    <button type="button" onclick="sendWhatsApp()" class="btn btn-theme w-100">
                                         Contact Our Travel Expert
                                     </button>
 

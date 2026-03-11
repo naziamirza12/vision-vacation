@@ -7,6 +7,7 @@
     <title> Our Tour Packages - Vision Vacation</title>
     <meta name="description" content="">
     <meta name="keywords" content="">
+    <link href="assets/img/logos/favicon.png" rel="shortcut icon" type="image/png">
 </head>
 
 <body>
@@ -38,7 +39,7 @@
                             <!-- Tour -->
                             <div class="tour-item rounded shadow-sm hover-effect mb-4">
                                 <div class="tour-img">
-                                    <a href="3-nights-4-days-goa-dinner-cruise.php">
+                                    <a href="domestic-holidays/goa-tour-packages/3-nights-4-days-goa-dinner-cruise.php">
                                         <figure class="image-hover image-hover-overlay ">
                                             <img src="assets/img/tours/goa.svg" srcset="assets/img/tours/goa.svg 2x"
                                                 alt="">
@@ -48,12 +49,13 @@
                                 </div>
                                 <div class="tour-content">
                                     <h3 class="tour-title">
-                                        <a href="3-nights-4-days-goa-dinner-cruise.php" class="link-dark link-hover">Goa Tour
+                                        <a href="domestic-holidays/goa-tour-packages/3-nights-4-days-goa-dinner-cruise.php"
+                                            class="link-dark link-hover">Goa Tour
                                             Package</a>
                                     </h3>
                                     <div class="tour-itinerary">
-                                        <span><i class="bi bi-calendar-event"></i> 5 Nights</span>
-                                        <span><i class="bi bi-calendar-event"></i> 6 Days</span>
+                                        <span><i class="bi bi-calendar-event"></i> 3 Nights</span>
+                                        <span><i class="bi bi-calendar-event"></i> 4 Days</span>
                                     </div>
                                     <div class="inline-review">
                                         <span class="review-score">4.9</span>
@@ -66,7 +68,8 @@
                                             <strong><sup>₹</sup>195.80</strong>
                                             <span><sup>₹</sup><del class="">230.00</del></span>
                                         </div>
-                                        <a href="3-nights-4-days-goa-dinner-cruise.php" class="circle-icon circle-icon-link">
+                                        <a href="domestic-holidays/goa-tour-packages/3-nights-4-days-goa-dinner-cruise.php"
+                                            class="circle-icon circle-icon-link">
                                             <i class="bi bi-arrow-right"></i>
                                         </a>
                                     </div>
@@ -78,7 +81,8 @@
                             <!-- Tour -->
                             <div class="tour-item rounded shadow-sm hover-effect mb-4">
                                 <div class="tour-img">
-                                    <a href="#">
+                                    <a
+                                        href="domestic-holidays/himachal-tour-packages/5-nights-6-days-shimla-manali.php">
                                         <figure class="image-hover image-hover-overlay ">
                                             <img src="assets/img/tours/himachal.svg"
                                                 srcset="assets/img/tours/himachal.svg 2x" alt="">
@@ -88,7 +92,7 @@
                                 </div>
                                 <div class="tour-content">
                                     <h3 class="tour-title">
-                                        <a href="5-nights-6-days-Himachal-tour-package"
+                                        <a href="domestic-holidays/himachal-tour-packages/5-nights-6-days-shimla-manali.php"
                                             class="link-dark link-hover">Himachal Tour Package</a>
                                     </h3>
                                     <div class="tour-itinerary">
@@ -106,7 +110,7 @@
                                             <strong><sup>₹</sup>195.80</strong>
                                             <span><sup>₹</sup><del class="">230.00</del></span>
                                         </div>
-                                        <a href="5-nights-6-days-Himachal-tour-package"
+                                        <a href="domestic-holidays/himachal-tour-packages/5-nights-6-days-shimla-manali.php"
                                             class="circle-icon circle-icon-link">
                                             <i class="bi bi-arrow-right"></i>
                                         </a>
@@ -119,7 +123,7 @@
                             <!-- Tour -->
                             <div class="tour-item rounded shadow-sm hover-effect mb-4">
                                 <div class="tour-img">
-                                    <a href="#">
+                                    <a href="domestic-holidays/kerala-tour-packages/4-nights-5-days-kerala-tour.php">
                                         <figure class="image-hover image-hover-overlay ">
                                             <img src="assets/img/tours/kerala.svg"
                                                 srcset="assets/img/tours/kerala.svg 2x" alt="">
@@ -129,12 +133,12 @@
                                 </div>
                                 <div class="tour-content">
                                     <h3 class="tour-title">
-                                        <a href="5-nights-6-days-Kerala-tour-package"
+                                        <a href="domestic-holidays/kerala-tour-packages/4-nights-5-days-kerala-tour.php"
                                             class="link-dark link-hover">Kerala Tour Package</a>
                                     </h3>
                                     <div class="tour-itinerary">
-                                        <span><i class="bi bi-calendar-event"></i> 5 Nights</span>
-                                        <span><i class="bi bi-calendar-event"></i> 6 Days</span>
+                                        <span><i class="bi bi-calendar-event"></i> 4 Nights</span>
+                                        <span><i class="bi bi-calendar-event"></i> 5 Days</span>
                                     </div>
                                     <div class="inline-review">
                                         <span class="review-score">4.9</span>
@@ -147,7 +151,7 @@
                                             <strong><sup>₹</sup>195.80</strong>
                                             <span><sup>₹</sup><del class="">230.00</del></span>
                                         </div>
-                                        <a href="5-nights-6-days-Kerala-tour-package"
+                                        <a href="domestic-holidays/kerala-tour-packages/4-nights-5-days-kerala-tour.php"
                                             class="circle-icon circle-icon-link">
                                             <i class="bi bi-arrow-right"></i>
                                         </a>
@@ -160,7 +164,7 @@
                             <!-- Tour -->
                             <div class="tour-item rounded shadow-sm hover-effect mb-4">
                                 <div class="tour-img">
-                                    <a href="#">
+                                    <a href="domestic-holidays/kashmir-tour-packages/4-nights-5-days-kashmir-tour-for-couple.php">
                                         <figure class="image-hover image-hover-overlay ">
                                             <img src="assets/img/tours/kashmir.svg"
                                                 srcset="assets/img/tours/kashmir.svg 2x" alt="">
@@ -170,12 +174,12 @@
                                 </div>
                                 <div class="tour-content">
                                     <h3 class="tour-title">
-                                        <a href="5-nights-6-days-Kashmir-tour-package.php"
+                                        <a href="domestic-holidays/kashmir-tour-packages/4-nights-5-days-kashmir-tour-for-couple.php"
                                             class="link-dark link-hover">Kashmir Tour Package</a>
                                     </h3>
                                     <div class="tour-itinerary">
-                                        <span><i class="bi bi-calendar-event"></i> 5 Nights</span>
-                                        <span><i class="bi bi-calendar-event"></i> 6 Days</span>
+                                        <span><i class="bi bi-calendar-event"></i> 4 Nights</span>
+                                        <span><i class="bi bi-calendar-event"></i> 5 Days</span>
                                     </div>
                                     <div class="inline-review">
                                         <span class="review-score">4.9</span>
@@ -188,7 +192,7 @@
                                             <strong><sup>₹</sup>195.80</strong>
                                             <span><sup>₹</sup><del class="">230.00</del></span>
                                         </div>
-                                        <a href="5-nights-6-days-Kashmir-tour-package.php"
+                                        <a href="domestic-holidays/kashmir-tour-packages/4-nights-5-days-kashmir-tour-for-couple.php"
                                             class="circle-icon circle-icon-link">
                                             <i class="bi bi-arrow-right"></i>
                                         </a>
@@ -201,7 +205,7 @@
                             <!-- Tour -->
                             <div class="tour-item rounded shadow-sm hover-effect mb-4">
                                 <div class="tour-img">
-                                    <a href="5-nights-6-days-andaman-tour-package.php">
+                                    <a href="domestic-holidays/andaman-tour-packages/5-nights-6-days-andaman-tour.php">
                                         <figure class="image-hover image-hover-overlay ">
                                             <img src="assets/img/tours/andaman.svg"
                                                 srcset="assets/img/tours/andaman.svg 2x" alt="">
@@ -211,7 +215,7 @@
                                 </div>
                                 <div class="tour-content">
                                     <h3 class="tour-title">
-                                        <a href="5-nights-6-days-andaman-tour-package.php"
+                                        <a href="domestic-holidays/andaman-tour-packages/5-nights-6-days-andaman-tour.php"
                                             class="link-dark link-hover">Andaman Tour Package</a>
                                     </h3>
                                     <div class="tour-itinerary">
@@ -229,7 +233,7 @@
                                             <strong><sup>₹</sup>195.80</strong>
                                             <span><sup>₹</sup><del class="">230.00</del></span>
                                         </div>
-                                        <a href="5-nights-6-days-andaman-tour-package.php"
+                                        <a href="domestic-holidays/andaman-tour-packages/5-nights-6-days-andaman-tour.php"
                                             class="circle-icon circle-icon-link">
                                             <i class="bi bi-arrow-right"></i>
                                         </a>

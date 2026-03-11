@@ -10081,3 +10081,54 @@ h6 {
     background: #6c757d;
     color: #fff;
 }
+
+/* galllery */
+/* grid */
+
+.movement-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-auto-rows: 120px;
+    gap: 5px;
+}
+
+/* common */
+.movement-grid img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 16px;
+    grid-row: span 1;
+
+}
+
+.movement-grid img {
+    grid-row: span 1;
+}
+
+.movement-grid img.medium {
+    grid-row: span 2;
+}
+
+.movement-grid img.tall {
+    grid-row: span 3;
+}
+
+@media screen and (max-width: 768px) {
+    .movement-grid {
+        grid-template-columns: repeat(2, 1fr);
+        grid-auto-rows: 140px;
+        gap: 12px;
+    }
+
+    .movement-grid img {
+        grid-row: span 1 !important;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .movement-grid {
+        grid-template-columns: 1fr;
+        grid-auto-rows: 220px;
+    }
+}

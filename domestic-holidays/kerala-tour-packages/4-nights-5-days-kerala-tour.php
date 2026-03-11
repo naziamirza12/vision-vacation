@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php include('../../include/header.php'); ?>
+
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -18,10 +19,11 @@
             <div class="row">
                 <div class="row g-3 align-items-center">
                     <div class="col-12 col-xl-6">
-                        <a href="<?= $base_url ?>assets/img/tours/it/karala.jpg" class="glightbox" data-gallery="tour-photos">
+                        <a href="<?= $base_url ?>assets/img/tours/it/karala.jpg" class="glightbox"
+                            data-gallery="tour-photos">
                             <figure class="image-hover image-hover-scale image-hover-overlay rounded mb-0">
-                                <img src="<?= $base_url ?>assets/img/tours/it/karala.jpg" srcset="<?= $base_url ?>assets/img/tours/it/karala.jpg 2x"
-                                    alt="">
+                                <img src="<?= $base_url ?>assets/img/tours/it/karala.jpg"
+                                    srcset="<?= $base_url ?>assets/img/tours/it/karala.jpg 2x" alt="">
                                 <i class="bi bi-arrows-fullscreen image-hover-icon fs-5"></i>
                             </figure>
                         </a>
@@ -408,7 +410,8 @@
                                             <label class="form-label">Full Name *</label>
                                             <div class="input-group">
                                                 <span class="input-group-text"><i class="bi bi-person"></i></span>
-                                                <input type="text" class="form-control" placeholder="Enter Your Name">
+                                                <input type="text" id="name" class="form-control"
+                                                    placeholder="Enter Your Name">
                                             </div>
                                         </div>
 
@@ -417,7 +420,9 @@
                                             <label class="form-label">Phone Number *</label>
                                             <div class="input-group">
                                                 <span class="input-group-text"><i class="bi bi-phone"></i></span>
-                                                <input type="tel" class="form-control" placeholder="Enter Phone Number">
+                                                <input type="tel" id="phone" class="form-control"
+                                                    placeholder="Enter Phone Number">
+
                                             </div>
                                         </div>
 
@@ -426,7 +431,7 @@
                                             <label class="form-label">Number of Travellers *</label>
                                             <div class="input-group">
                                                 <span class="input-group-text"><i class="bi bi-people"></i></span>
-                                                <select class="form-control">
+                                                <select class="form-control" id="travellers">
                                                     <option>Number of travellers</option>
                                                     <option>1 Traveller</option>
                                                     <option>2 Travellers</option>
@@ -444,7 +449,7 @@
                                             <label class="form-label">Tour Type *</label>
                                             <div class="input-group">
                                                 <span class="input-group-text"><i class="bi bi-map"></i></span>
-                                                <select class="form-control">
+                                                <select class="form-control" id="tourType">
                                                     <option>Select tour type</option>
                                                     <option>Family Tour</option>
                                                     <option>Honeymoon Tour</option>
@@ -470,7 +475,7 @@
                                     </div>
 
                                     <!-- Button -->
-                                    <button type="button" class="btn btn-theme w-100">
+                                    <button type="button" onclick="sendWhatsApp()" class="btn btn-theme w-100">
                                         Contact Our Travel Expert
                                     </button>
 

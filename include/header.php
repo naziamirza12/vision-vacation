@@ -112,13 +112,13 @@
                             </div>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#" data-bs-display="static"><span>Hot Deals</span></a>
+                            <a class="nav-link" href="domestic-holidays.php" data-bs-display="static"><span>Hot Deals</span></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="about.php" data-bs-display="static"><span>About Us</span></a>
+                            <a class="nav-link" href="<?= $base_url ?>about.php" data-bs-display="static"><span>About Us</span></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="contact.php" data-bs-display="static"><span>Contact Us</span></a>
+                            <a class="nav-link" href="<?= $base_url ?>contact.php" data-bs-display="static"><span>Contact Us</span></a>
                         </li>
                     </ul>
                 </div>

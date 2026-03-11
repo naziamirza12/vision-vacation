@@ -16,11 +16,10 @@
                         </a>
                         <p class="brand-desc pt-3">
                             <em>
-                                Vision Vacation Travel Agency offers unique and memorable tours, providing rich
-                                experiences
-                                in the beautiful country of Vision Vacation.
+                                Not the kind of love that looks good on a website, but the kind that makes you stay up
+                                late planning the perfect itinerary
                             </em>
-                            <a href="about">[+]</a>
+                            <a href="about.php"> [+]</a>
                         </p>
                     </div>
                     <!-- /Brand -->
@@ -32,19 +31,13 @@
                         <h2 class="h4 pb-3">Vision Vacation Travel</h2>
                         <ul class="footer-link">
                             <li class="link-item">
-                                <a href="about">About us</a>
+                                <a href="about.php">About us</a>
                             </li>
                             <li class="link-item">
-                                <a href="#">Destinations</a>
+                                <a href="contact.php">Contact us</a>
                             </li>
                             <li class="link-item">
-                                <a href="#">Vision Vacation Tours</a>
-                            </li>
-                            <li class="link-item">
-                                <a href="#">Travel insight</a>
-                            </li>
-                            <li class="link-item">
-                                <a href="contact">Contact us</a>
+                                <a href="domestic-holidays.php">Our Destinations</a>
                             </li>
                         </ul>
                     </div>
