@@ -58,12 +58,12 @@
                 data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
                 <i class="bi bi-list"></i>
             </button>
-            <a class="logo-for" href="index.php">
+            <a class="logo-for" href="<?= $base_url ?>index.php">
                 <img src="<?= $base_url ?>assets/img/logos/logo.png" width="120px">
             </a>
             <div class="offcanvas offcanvas-navbar offcanvas-start border-end-0" tabindex="-1" id="offcanvasNavbar">
                 <div class="offcanvas-header border-bottom p-xl-0">
-                    <a href="index.php" class="d-inline-block">
+                    <a href="<?= $base_url ?>index.php" class="d-inline-block">
                         <img src="assets/img/logos/logo.png" alt="logo">
                     </a>
                     <button type="button" class="btn-close shadow-none" data-bs-dismiss="offcanvas"

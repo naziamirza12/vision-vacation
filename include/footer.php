@@ -11,7 +11,7 @@
                 <div class="col-12 col-xl-3 col-md-6">
                     <!-- Brand -->
                     <div class="footer-widget">
-                        <a class="logo-for" href="index.php">
+                        <a class="logo-for" href="<?= $base_url ?>index.php">
                             <img src="<?= $base_url ?>assets/img/logos/logo.png" width="120px">
                         </a>
                         <p class="brand-desc pt-3">
