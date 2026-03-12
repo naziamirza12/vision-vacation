@@ -5,7 +5,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Vision Vacation | Best Tour Packages, Holiday Deals & Itineraries </title>
-    <meta name="description" content="Discover affordable tour and holiday packages with Vision Vacation. Explore customized itineraries, top destinations, and unforgettable travel experiences.">
+    <meta name="description"
+        content="Discover affordable tour and holiday packages with Vision Vacation. Explore customized itineraries, top destinations, and unforgettable travel experiences.">
     <meta name="keywords" content="">
     <link href="assets/img/logos/favicon.png" rel="shortcut icon" type="image/png">
 </head>
@@ -16,6 +17,112 @@
         <i class="bi bi-whatsapp"></i>
     </a>
     <!--End-->
+
+    <!-- POPUP -->
+    <div id="travelPopup" class="popup-overlay">
+
+        <div class="popup-container">
+
+            <!-- Close -->
+            <span class="popup-close" onclick="closePopup()">✕</span>
+
+            <!-- LEFT SIDE -->
+            <div class="popup-left">
+                <img src="assets/img/about/popup-one.jpg" alt="traveller">
+            </div>
+
+            <!-- RIGHT SIDE -->
+            <div class="popup-right">
+
+                <div class="popup-logo">
+                    <img src="assets/img/logos/logo.png" width="120px">
+                </div>
+
+                <h4 class="popup-title">Plan Your Perfect Trip</h4>
+                <p class="popup-subtitle">
+                    Get a <b>FREE</b> personalized itinerary with the best prices from our travel experts
+                </p>
+
+                <!-- YOUR FORM -->
+                <form id="searchForm">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <i class="bi bi-person"></i>
+                                <input type="text" id="name" placeholder="Enter Your Name">
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <i class="bi bi-phone"></i>
+                                <input type="tel" id="phone" placeholder="Enter Phone Number">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <i class="bi bi-map"></i>
+                                <select id="tourType">
+                                    <option>Select tour type</option>
+                                    <option>Family Tour</option>
+                                    <option>Honeymoon Tour</option>
+                                    <option>Group Tour</option>
+                                    <option>Adventure Tour</option>
+                                </select>
+                            </div>
+
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <i class="bi bi-people"></i>
+                                <select id="travellers">
+                                    <option>Number of travellers</option>
+                                    <option>1 Traveller</option>
+                                    <option>2 Travellers</option>
+                                    <option>3 Travellers</option>
+                                    <option>4 Travellers</option>
+                                    <option>5 Travellers</option>
+                                    <option>More</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+
+                    <label class="visit-office">
+                        <input type="checkbox" id="visitOffice">
+                        I would like to visit your office
+                    </label>
+
+                    <button type="button" onclick="sendWhatsApp()" class="submit-btn">
+                        Contact Our Travel Expert
+                    </button>
+
+                    <div class="popup-footer">
+                        100% Secure • Data Privacy Guaranteed • Travel with Confidence
+                    </div>
+
+                </form>
+
+            </div>
+
+        </div>
+
+    </div>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+
+            setTimeout(function () {
+                document.getElementById("travelPopup").style.display = "flex";
+            }, 10000);
+
+        });
+
+        function closePopup() {
+            document.getElementById("travelPopup").style.display = "none";
+        }
+    </script>
+
     <!-- haedaer -->
     <?php include 'include/header.php'; ?>
     <!-- Main -->

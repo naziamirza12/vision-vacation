@@ -1,3 +1,134 @@
+/* pop up form css */
+.popup-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    display: none;
+    align-items: center;
+    justify-content: center;
+    z-index: 9999;
+}
+
+.popup-container {
+    width: 850px;
+    background: #fff;
+    border-radius: 12px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+}
+
+.popup-close {
+    position: absolute;
+    right: 15px;
+    top: 10px;
+    font-size: 22px;
+    cursor: pointer;
+}
+
+.popup-left {
+    width: 40%;
+    background: #0cc0df;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.popup-left img {
+    max-width: 100%;
+}
+
+.popup-right {
+    width: 60%;
+    padding: 30px;
+}
+
+.popup-logo {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.popup-logo h3 {
+    margin: 0;
+    font-weight: 700;
+}
+
+.popup-title {
+    text-align: center;
+    font-weight: 700;
+}
+
+.popup-subtitle {
+    text-align: center;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+.form-group {
+    display: flex;
+    align-items: center;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    margin-bottom: 10px;
+    padding: 8px;
+}
+
+.form-group i {
+    margin-right: 8px;
+    color: #888;
+}
+
+.form-group input,
+.form-group select {
+    border: none;
+    outline: none;
+    width: 100%;
+}
+
+.visit-office {
+    font-size: 14px;
+    display: block;
+    margin: 10px 0;
+}
+
+.submit-btn {
+    width: 100%;
+    padding: 14px;
+    background: #0cc0df;
+    border: none;
+    color: #fff;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.popup-footer {
+    text-align: center;
+    font-size: 12px;
+    color: #777;
+    margin-top: 10px;
+}
+
+@media(max-width:768px) {
+
+    .popup-container {
+        flex-direction: column;
+        width: 95%;
+    }
+
+    .popup-left {
+        display: none;
+    }
+
+    .popup-right {
+        width: 100%;
+    }
+
+}
+
 .splide__container,
 .splide__slide {
     box-sizing: border-box;
@@ -10132,3 +10263,4 @@ h6 {
         grid-auto-rows: 220px;
     }
 }
+
